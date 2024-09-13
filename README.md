@@ -7,6 +7,8 @@ andrew_cardio_data_rdfrst
     -created, trained and tested a random forest model, then displayed the accuracy results and visualized the feature importance of the model
     -exported the model into a pickle file "cardio_rf_model.pkl" for future use
 
+**Conclusion**
+We conclude that the best model for an application such as this is Random Forest. While all three models gave very similar results of 73-74%, Random forest is the best at handling the complexity that comes with so many features.
     
 **References:**
 Original dataset from: https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset?select=CVD_cleaned.csv
